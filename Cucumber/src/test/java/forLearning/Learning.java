@@ -41,5 +41,10 @@ public class Learning {
 		System.out.println("/// user learns");
 	}
 	
+	public void user() {
+		
+		
+	}
+	
 
 }
